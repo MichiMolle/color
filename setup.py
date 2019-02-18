@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Michael Moeller",
     author_email="github@mk-moeller.de.com",
-    description="Easy color manipulation",
-    url="https://github.com/pypa/sampleproject",
+    description="Easy color manipulation with python",
+    url="https://github.com/MichiMolle/color",
     packages=setuptools.find_packages(),
 )
